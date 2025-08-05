@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title>Clothes Shop</title></head>
+<head>Clothes Shop</head>
 <body>
   <h1>Welcome to the Clothes Shop!</h1>
   <div>
